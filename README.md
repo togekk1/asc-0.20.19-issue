@@ -2,9 +2,9 @@
 
 #### Step 1: Execute `npm install` or `yarn`
 
-#### Step 2: Execute `npm run dev` or `yarn dev`
+#### Step 2: Execute `npm run asbuild` or `yarn asbuild`
 
-#### Step 3: Execute `npm run asbuild` or `yarn asbuild`
+#### Step 3: Execute `npm run dev` or `yarn dev`
 
 #### Step 4: Open http://localhost:5174/ in browser
 
