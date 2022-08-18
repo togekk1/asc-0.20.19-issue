@@ -1,6 +1,6 @@
-## Minimal, Reproducible Example of AssemblyScript
+## Minimal, Reproducible Example of AssemblyScript 0.20.19 issue
 
-#### Step 1: Execute `yarn`
+#### Step 1: Execute `npm install` or `yarn`
 
 #### Step 2: Execute `npm run dev` or `yarn dev`
 
